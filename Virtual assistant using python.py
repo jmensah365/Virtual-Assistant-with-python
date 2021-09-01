@@ -57,8 +57,7 @@ def password():
     talk('Your password is')
     print(password)
     talk(password)
-def clipboard():
-    pass
+
 
 
 while True:
